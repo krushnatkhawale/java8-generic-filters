@@ -1,4 +1,4 @@
-package com.java.functional.filter;
+package com.java.functional.filter.util;
 
 import java.util.List;
 import java.util.function.Predicate;

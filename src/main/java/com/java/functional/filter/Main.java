@@ -8,7 +8,8 @@ import java.util.stream.Stream;
 
 import com.java.functional.filter.model.Employee;
 import com.java.functional.filter.util.ListUtils;
-import static com.java.functional.filter.FilterUtils.getFilteredStream;
+
+import static com.java.functional.filter.util.FilterUtils.getFilteredStream;
 
 public class Main {
 	public static void main(String[] args) {
